@@ -37,7 +37,9 @@ INSTALLED_APPS = [
     'django.contrib.sessions',
     'django.contrib.messages',
     'django.contrib.staticfiles',
+    # Local
     'shop.apps.ShopConfig',
+    'chart.apps.ChartConfig',
 
 ]
 

@@ -1,2 +1,2 @@
-# Online Shooping With Django 2
+# Online Shopping With Django 2
 ## *`Still Progress`*
